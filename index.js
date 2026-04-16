@@ -11,33 +11,9 @@ const RETRY_DELAY_MAX = 15000;
 const MAX_REINTENTOS = 2;
 const NOMBRE_GRUPO_GENERAL = "GRUPO GENERAL";
 const ARCHIVO_PROGRESO = path.join(__dirname, "progreso.json");
-const NUMEROS_COMUNES = ["3118468556", "3138850555"];
+const NUMEROS_COMUNES = ["3138850555"];
 
 const GRUPOS = [
-  { nombre: "ACP IEALCARPISTA", numeros: ["3147245487"] },
-  { nombre: "Bestiebots", numeros: ["3155459423"] },
-  { nombre: "AcuaTIC", numeros: ["3147688698"] },
-  { nombre: "Josemaristic", numeros: ["3102774742"] },
-  { nombre: "EcoMetric", numeros: ["3154669857"] },
-  { nombre: "Internauras", numeros: ["3126931026"] },
-  { nombre: "TRINOVA", numeros: ["3106130762"] },
-  { nombre: "Chicos Quebec", numeros: ["3115601148"] },
-  { nombre: "BIOAQUA", numeros: ["3212091098"] },
-  { nombre: "Bio-Makers 3D", numeros: ["3112565327"] },
-  { nombre: "construyendo sue\u00f1os", numeros: ["3217491582"] },
-  { nombre: "STEMGIRLS", numeros: ["3117760128"] },
-  { nombre: "VIVERO RAICES", numeros: ["3104632996"] },
-  { nombre: "Aguablanca", numeros: ["3224018792"] },
-  { nombre: "Semilla Lab", numeros: ["3117390313"] },
-  { nombre: "Agua blanca", numeros: ["3224018792"] },
-  { nombre: "Exploradores de tesoros ancestrales", numeros: ["3122870267"] },
-  { nombre: "Hidronova", numeros: ["3106130762"] },
-  { nombre: "AgroTech \u00c1guila", numeros: ["3007869915"] },
-  { nombre: "Exploradores del Saber", numeros: ["3163372962"] },
-  {
-    nombre: "Del algoritmo a la innovaci\u00f3n: Ciencia y Tecnologia transformado la Educaci\u00f3n.",
-    numeros: ["3104903568"]
-  },
   { nombre: "GENIOS MEDINISTAS", numeros: ["3102781478"] },
   { nombre: "Bosco Sapiens", numeros: ["3172659068"] },
   { nombre: "Exploradores de la Entomofauna", numeros: ["3162245647"] },
