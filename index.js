@@ -14,23 +14,6 @@ const ARCHIVO_PROGRESO = path.join(__dirname, "progreso.json");
 const NUMEROS_COMUNES = ["3118468556","3138850555"];
 
 const GRUPOS = [
-  { nombre: "FermatSteam", numeros: ["316244926"] },
-  { nombre: "INSTESAN", numeros: ["3144061971"] },
-  { nombre: "CILAB MI\u00d1A RuralTech", numeros: ["3108072071"] },
-  { nombre: "AGROTECH INNOVADORES", numeros: ["3105723005"] },
-  { nombre: "CILAB ARBELAEZ", numeros: ["3213417166"] },
-  { nombre: "HydroControl", numeros: ["3118366078"] },
-  { nombre: "ROSALTR\u00d3NICOS", numeros: ["3172419535"] },
-  { nombre: "YOUTH", numeros: ["3214942767"] },
-  { nombre: "SolarTech Cajic\u00e1", numeros: ["3017231310"] },
-  { nombre: "RobotStars", numeros: ["3004707466"] },
-  { nombre: "PH Innovators", numeros: ["3134138866"] },
-  { nombre: "Chicas Eco Stem", numeros: ["3013926735"] },
-  { nombre: "EQUIPO ECOTEAMS", numeros: ["3124475549"] },
-  { nombre: "Innova verde", numeros: ["3118061881"] },
-  { nombre: "SolTech Rural", numeros: ["3045528663"] },
-  { nombre: "GUERREROS KIDS", numeros: ["3118555143"] },
-  { nombre: "Exploradores del P\u00e1ramo", numeros: ["3208548629"] },
   { nombre: "EXPEDICION TABIO", numeros: ["3178679591"] },
   { nombre: "COMPOSTECH GIRO", numeros: ["3156273545"] },
   { nombre: "Sembradores del Sumak Kawsay", numeros: ["3216707289"] },
